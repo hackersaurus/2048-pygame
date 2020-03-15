@@ -1,2 +1,2 @@
 # 2048-pygame
-The game 2048 implemented using pygame.
+The clone of the 2048 game implemented using pygame.
